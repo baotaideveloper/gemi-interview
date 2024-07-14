@@ -1,5 +1,5 @@
 engine version: Cocos 2.4.10
 
-you can change map duration and ball speed in assets/scripts/maps/map.json
+you can change map duration and ball speed in assets/json/map1-2.json
 
 press "space-bar" or click on ball to fire ball.
