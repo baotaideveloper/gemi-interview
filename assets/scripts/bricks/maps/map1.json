@@ -1,0 +1,510 @@
+{
+    "duration":60,
+    "startBallSpeed":400,
+    "map": [
+      {
+        "color": "blue1",
+        "position": {
+          "x": -352,
+          "y": 250
+        }
+      },
+      {
+        "color": "blue1",
+        "position": {
+          "x": -288,
+          "y": 250
+        }
+      },
+      {
+        "color": "blue1",
+        "position": {
+          "x": -224,
+          "y": 250
+        }
+      },
+      {
+        "color": "blue1",
+        "position": {
+          "x": -160,
+          "y": 250
+        }
+      },
+      {
+        "color": "blue1",
+        "position": {
+          "x": -96,
+          "y": 250
+        }
+      },
+      {
+        "color": "blue1",
+        "position": {
+          "x": -32,
+          "y": 250
+        }
+      },
+      {
+        "color": "blue1",
+        "position": {
+          "x": 32,
+          "y": 250
+        }
+      },
+      {
+        "color": "blue1",
+        "position": {
+          "x": 96,
+          "y": 250
+        }
+      },
+      {
+        "color": "blue1",
+        "position": {
+          "x": 160,
+          "y": 250
+        }
+      },
+      {
+        "color": "blue1",
+        "position": {
+          "x": 224,
+          "y": 250
+        }
+      },
+      {
+        "color": "blue1",
+        "position": {
+          "x": 288,
+          "y": 250
+        }
+      },
+      {
+        "color": "blue1",
+        "position": {
+          "x": 352,
+          "y": 250
+        }
+      },
+      {
+        "color": "red1",
+        "position": {
+          "x": -352,
+          "y": 218
+        }
+      },
+      {
+        "color": "red1",
+        "position": {
+          "x": -288,
+          "y": 218
+        }
+      },
+      {
+        "color": "red1",
+        "position": {
+          "x": -224,
+          "y": 218
+        }
+      },
+      {
+        "color": "red1",
+        "position": {
+          "x": -160,
+          "y": 218
+        }
+      },
+      {
+        "color": "red1",
+        "position": {
+          "x": -96,
+          "y": 218
+        }
+      },
+      {
+        "color": "red1",
+        "position": {
+          "x": -32,
+          "y": 218
+        }
+      },
+      {
+        "color": "red1",
+        "position": {
+          "x": 32,
+          "y": 218
+        }
+      },
+      {
+        "color": "red1",
+        "position": {
+          "x": 96,
+          "y": 218
+        }
+      },
+      {
+        "color": "red1",
+        "position": {
+          "x": 160,
+          "y": 218
+        }
+      },
+      {
+        "color": "red1",
+        "position": {
+          "x": 224,
+          "y": 218
+        }
+      },
+      {
+        "color": "red1",
+        "position": {
+          "x": 288,
+          "y": 218
+        }
+      },
+      {
+        "color": "red1",
+        "position": {
+          "x": 352,
+          "y": 218
+        }
+      },
+      {
+        "color": "green1",
+        "position": {
+          "x": -352,
+          "y": 186
+        }
+      },
+      {
+        "color": "green1",
+        "position": {
+          "x": -288,
+          "y": 186
+        }
+      },
+      {
+        "color": "green1",
+        "position": {
+          "x": -224,
+          "y": 186
+        }
+      },
+      {
+        "color": "green1",
+        "position": {
+          "x": -160,
+          "y": 186
+        }
+      },
+      {
+        "color": "green1",
+        "position": {
+          "x": -96,
+          "y": 186
+        }
+      },
+      {
+        "color": "green1",
+        "position": {
+          "x": -32,
+          "y": 186
+        }
+      },
+      {
+        "color": "green1",
+        "position": {
+          "x": 32,
+          "y": 186
+        }
+      },
+      {
+        "color": "green1",
+        "position": {
+          "x": 96,
+          "y": 186
+        }
+      },
+      {
+        "color": "green1",
+        "position": {
+          "x": 160,
+          "y": 186
+        }
+      },
+      {
+        "color": "green1",
+        "position": {
+          "x": 224,
+          "y": 186
+        }
+      },
+      {
+        "color": "green1",
+        "position": {
+          "x": 288,
+          "y": 186
+        }
+      },
+      {
+        "color": "green1",
+        "position": {
+          "x": 352,
+          "y": 186
+        }
+      },
+      {
+        "color": "yellow1",
+        "position": {
+          "x": -352,
+          "y": 154
+        }
+      },
+      {
+        "color": "yellow1",
+        "position": {
+          "x": -288,
+          "y": 154
+        }
+      },
+      {
+        "color": "yellow1",
+        "position": {
+          "x": -224,
+          "y": 154
+        }
+      },
+      {
+        "color": "yellow1",
+        "position": {
+          "x": -160,
+          "y": 154
+        }
+      },
+      {
+        "color": "yellow1",
+        "position": {
+          "x": -96,
+          "y": 154
+        }
+      },
+      {
+        "color": "yellow1",
+        "position": {
+          "x": -32,
+          "y": 154
+        }
+      },
+      {
+        "color": "yellow1",
+        "position": {
+          "x": 32,
+          "y": 154
+        }
+      },
+      {
+        "color": "yellow1",
+        "position": {
+          "x": 96,
+          "y": 154
+        }
+      },
+      {
+        "color": "yellow1",
+        "position": {
+          "x": 160,
+          "y": 154
+        }
+      },
+      {
+        "color": "yellow1",
+        "position": {
+          "x": 224,
+          "y": 154
+        }
+      },
+      {
+        "color": "yellow1",
+        "position": {
+          "x": 288,
+          "y": 154
+        }
+      },
+      {
+        "color": "yellow1",
+        "position": {
+          "x": 352,
+          "y": 154
+        }
+      },
+      {
+        "color": "silver1",
+        "position": {
+          "x": -352,
+          "y": 122
+        }
+      },
+      {
+        "color": "silver1",
+        "position": {
+          "x": -288,
+          "y": 122
+        }
+      },
+      {
+        "color": "silver1",
+        "position": {
+          "x": -224,
+          "y": 122
+        }
+      },
+      {
+        "color": "silver1",
+        "position": {
+          "x": -160,
+          "y": 122
+        }
+      },
+      {
+        "color": "silver1",
+        "position": {
+          "x": -96,
+          "y": 122
+        }
+      },
+      {
+        "color": "silver1",
+        "position": {
+          "x": -32,
+          "y": 122
+        }
+      },
+      {
+        "color": "silver1",
+        "position": {
+          "x": 32,
+          "y": 122
+        }
+      },
+      {
+        "color": "silver1",
+        "position": {
+          "x": 96,
+          "y": 122
+        }
+      },
+      {
+        "color": "silver1",
+        "position": {
+          "x": 160,
+          "y": 122
+        }
+      },
+      {
+        "color": "silver1",
+        "position": {
+          "x": 224,
+          "y": 122
+        }
+      },
+      {
+        "color": "silver1",
+        "position": {
+          "x": 288,
+          "y": 122
+        }
+      },
+      {
+        "color": "silver1",
+        "position": {
+          "x": 352,
+          "y": 122
+        }
+      },
+      {
+        "color": "purple1",
+        "position": {
+          "x": -352,
+          "y": 90
+        }
+      },
+      {
+        "color": "purple1",
+        "position": {
+          "x": -288,
+          "y": 90
+        }
+      },
+      {
+        "color": "purple1",
+        "position": {
+          "x": -224,
+          "y": 90
+        }
+      },
+      {
+        "color": "purple1",
+        "position": {
+          "x": -160,
+          "y": 90
+        }
+      },
+      {
+        "color": "purple1",
+        "position": {
+          "x": -96,
+          "y": 90
+        }
+      },
+      {
+        "color": "purple1",
+        "position": {
+          "x": -32,
+          "y": 90
+        }
+      },
+      {
+        "color": "purple1",
+        "position": {
+          "x": 32,
+          "y": 90
+        }
+      },
+      {
+        "color": "purple1",
+        "position": {
+          "x": 96,
+          "y": 90
+        }
+      },
+      {
+        "color": "purple1",
+        "position": {
+          "x": 160,
+          "y": 90
+        }
+      },
+      {
+        "color": "purple1",
+        "position": {
+          "x": 224,
+          "y": 90
+        }
+      },
+      {
+        "color": "purple1",
+        "position": {
+          "x": 288,
+          "y": 90
+        }
+      },
+      {
+        "color": "purple1",
+        "position": {
+          "x": 352,
+          "y": 90
+        }
+      }
+    ]
+  }
