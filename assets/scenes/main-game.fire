@@ -571,14 +571,6 @@
     "bricksContent": {
       "__id__": 7
     },
-    "jsonMaps": [
-      {
-        "__uuid__": "c1d10991-297d-4482-82d8-4fd9cd08f837"
-      },
-      {
-        "__uuid__": "aacf462f-85fc-41cf-87f9-862ffe6dea58"
-      }
-    ],
     "_id": "3aU4M12hVHUZX8SC0u81ZB"
   },
   {
@@ -2221,7 +2213,6 @@
     "spriteFrameBall": {
       "__uuid__": "2895a98c-69d6-4f6f-814d-86919b199da6"
     },
-    "defaultBallSpeed": 400,
     "rangeStartDirectionX": 50,
     "limitAngleWithPaddle": 70,
     "startPosition": {
@@ -2311,7 +2302,6 @@
     "spriteFrameBall": {
       "__uuid__": "e7ccc0d3-fa84-4f90-b2a3-f11fc209c70c"
     },
-    "defaultBallSpeed": 400,
     "rangeStartDirectionX": 50,
     "limitAngleWithPaddle": 70,
     "startPosition": {

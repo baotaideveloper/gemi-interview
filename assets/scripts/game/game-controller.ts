@@ -1,8 +1,8 @@
 import BallController from "../ball/ball-controller";
 import { BallType } from "../ball/ball-enum";
 import BrickContainer from "../bricks/bricks-container";
-import { MapUtil } from "../bricks/maps/map-util";
 import { GAME_EVENT } from "../events/game-event-config";
+import { MapUtil } from "../maps/map-util";
 import PaddleController from "../paddle/paddle-controller";
 import TimerController from "../timer/timer-controller";
 import UIController from "../ui/ui-controller";

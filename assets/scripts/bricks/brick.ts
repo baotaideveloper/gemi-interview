@@ -1,4 +1,4 @@
-import { BrickData } from "./maps/map-data";
+import { BrickData } from "../maps/map-data";
 
 const { ccclass, property } = cc._decorator;
 

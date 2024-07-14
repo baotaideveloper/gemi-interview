@@ -1,6 +1,6 @@
 import GameController from "../game/game-controller";
+import { BrickData } from "../maps/map-data";
 import Brick from "./brick";
-import { BrickData } from "./maps/map-data";
 
 const { ccclass, property } = cc._decorator;
 
@@ -12,8 +12,6 @@ export default class BrickContainer extends cc.Component {
     @property(cc.Node)
     private bricksContent: cc.Node = null;
 
-    @property([cc.JsonAsset])
-    private jsonMaps: cc.JsonAsset[] = [];
     private arrayBricks: Brick[] = [];
 
     private poolBricks: cc.NodePool = new cc.NodePool();
